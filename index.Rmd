@@ -45,7 +45,7 @@ mode        : selfcontained # {standalone, draft}
 ## Laboratory Test Quantiles for Glucose
 
 ```{r, echo=F}
-NHANES_data_file <- "../NHANESApp/NHANES_1999.RData"
+NHANES_data_file <- "C:/Users/rseiter/Documents/Education/Coursera - Developing Data Products/Course Project/DevDataProdProject/NHANESApp/NHANES_1999.RData"
 load(file = NHANES_data_file)
 
 selectVar <- "Glucose (mg/dL) - LBXSGL"

@@ -44,16 +44,6 @@ mode        : selfcontained # {standalone, draft}
 
 ## Laboratory Test Quantiles for Glucose
 
-
-```
-## Warning: cannot open compressed file '../NHANESApp/NHANES_1999.RData',
-## probable reason 'No such file or directory'
-```
-
-```
-## Error: cannot open the connection
-```
-
 ![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
 
 
